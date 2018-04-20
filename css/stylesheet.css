@@ -1,0 +1,46 @@
+
+body {
+  background-image: url("../my images/dem.jpeg ");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: left;
+  }
+  tittle{
+    color: red;
+  }
+  h2{
+    color: blue;
+  }
+  .p1 {
+    color:red;
+  }
+  .p2 {
+    color: black;
+  }
+  .p3 {
+    color: black;
+  }
+    h2{
+      text-align: center;
+      }
+h1{
+  color: blue;
+}
+h3{
+  color: green;
+}
+h4{
+color: yellow;
+}
+.p1{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+.p4{
+  color: red;
+}
